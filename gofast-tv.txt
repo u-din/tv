@@ -1,4 +1,29 @@
 
+
+TransTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683116&extension=m3u8
+
+SPOTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683117&extension=m3u8
+
+Star movies
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683118&extension=m3u8
+
+GTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683121&extension=m3u8
+
+Vision Prime
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683124&extension=m3u8
+
+Life
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683125&extension=m3u8
+
+Celebrities tv
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683126&extension=m3u8
+
+A12 tv
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683127&extension=m3u8
+
 Okezone TV
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683128&extension=m3u8
 
