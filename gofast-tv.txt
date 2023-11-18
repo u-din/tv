@@ -1,4 +1,18 @@
 
+Okezone TV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683128&extension=m3u8
+
+Lifetime
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683129&extension=m3u8
+
+One
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683130&extension=m3u8
+
+KIX
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683134&extension=m3u8
+
+Fight Sports
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683135&extension=m3u8
 
 Bein Sports 2
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683138&extension=m3u8
