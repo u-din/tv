@@ -1,4 +1,22 @@
 
+RTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
+
+MNC TV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683098&extension=m3u8
+
+RCTI
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683099&extension=m3u8
+
+TransTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683100&extension=m3u8
+
+Al Quran 
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683102&extension=m3u8
+
+Muslim TV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683103&extension=m3u8
+
 IDX CHannel
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683104&extension=m3u8
 
