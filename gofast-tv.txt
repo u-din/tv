@@ -1,4 +1,15 @@
 
+Crime Investigation
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683088&extension=m3u8
+
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683090&extension=m3u8
+
+H History
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683091&extension=m3u8
+
+EWTN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683094&extension=m3u8
+
 RTV
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683095&extension=m3u8
 
@@ -103,3 +114,34 @@ http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683142&exten
 
 fnm
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683143&extension=m3u8
+
+AXN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683144&extension=m3u8
+
+TVN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683148&extension=m3u8
+
+TVN Movies
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683149&extension=m3u8
+
+MyFC
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683150&extension=m3u8
+
+MyCA
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683151&extension=m3u8
+
+MyCN
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683152&extension=m3u8
+
+ANTV
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683153&extension=m3u8
+
+Thrill
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683154&extension=m3u8
+
+Zee Bioskop
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683155&extension=m3u8
+
+MyKidz
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683156&extension=m3u8
+
