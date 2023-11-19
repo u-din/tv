@@ -1,4 +1,13 @@
 
+IDX CHannel
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683104&extension=m3u8
+
+OK tv
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683105&extension=m3u8
+
+Jelajah Surau
+http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683106&extension=m3u8
+
 Bandung TV
 http://line.gofast-tv.me/play/live.php?mac=00:1a:79:b5:63:3c&stream=683107&extension=m3u8
 
