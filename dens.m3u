@@ -9,7 +9,7 @@ http://210.210.155.37/uq2663/h/h09/index.m3u8
 http://210.210.155.37/uq2663/h/h10/index.m3u8
 #EXTINF:-1,Metro Globe Network
 http://210.210.155.37/uq2663/h/h11/index.m3u8
-#EXTINF:-1,tvg-name="K+" group-title="Drama" tvg-logo="https://i.imgur.com/EItRncL.png",Metro TV
+#EXTINF:-1,tvg-name="K+" tvg-id="" group-title="Drama" tvg-logo="https://i.imgur.com/EItRncL.png",Metro TV
 http://210.210.155.37/uq2663/h/h12/index.m3u8
 #EXTINF:-1,MCE
 http://210.210.155.37/uq2663/h/h18/index.m3u8
